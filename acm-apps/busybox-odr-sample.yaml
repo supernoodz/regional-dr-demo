@@ -56,4 +56,4 @@ metadata:
 spec:
   clusterSelector:
     matchLabels:
-      name: dr02
+      odf: primary
